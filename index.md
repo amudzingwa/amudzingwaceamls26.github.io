@@ -13,7 +13,7 @@ quick_facts:
   - "🚀 Pineapples belong on pizza"
 
 linkedin: https://www.linkedin.com/in/asheley-mudzingwa
-image: /assets/images/profile.svg
+image: /assets/images/profile.jpeg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
