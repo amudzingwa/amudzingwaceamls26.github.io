@@ -1,6 +1,6 @@
 ---
 layout: project
-title: About My Project
+title: Post-Disaster Building Damage Assessment AI
 permalink: /about-my-project.html
 
 subtitle: Human-Computer Interaction & Adaptive Systems
@@ -31,10 +31,10 @@ outcome: |
 final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
-  name: Alex Morgan
+  name: John Tanimola
   linkedin: https://www.linkedin.com/in/example
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
+  name: Dr. Steve Efe
   linkedin: https://www.linkedin.com/in/example
 ---
