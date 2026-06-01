@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Day 5 — Wrapping up python and setting up the research environment"
+date: 2026-06-01
+permalink: /day5.html
+tags: ["research", "python"]
+
+what_i_learned: |
+  Today, we started the day by doing Figma 101. We went through the homework that is due in a couple of days, and I gained some clarity on what I need to do, as well as some questions I encountered over the weekend. After that, we went into our lab. For today’s lab, we worked on the literature review we need to complete, and we also worked on the dataset we need. We downloaded the dataset and uploaded it to Google Drive. We also started setting up the environment for what we need to do. At this point, I feel like the project is becoming real, and I’m excited about it. I had some trouble installing one of the software tools we need, but in the end, I got help from the grad mentor, and I was able to install it, which I’m happy about. I ended the day on track with everyone else. After lunch, we did an AI quest. I enjoyed the AI quest because these were interactive tutorials on how to use AI on the Google platform, and I really enjoyed working with it. I learned a lot about how AI is applied in the real world and some skills I can transfer to the project I’m working on. The most important skill I gained is the importance of using diversified data and the importance of testing before releasing it to the world. We ended the day by doing Python 102, continuing the Gradio practice we’ve been doing. We went deeper into building blocks and how to have more control over our apps.
+
+
+blockers: |
+  The first blocker I had for the day was installing one of the software tools we need for the project, called GQIS. I had trouble installing it on my system, which I believe was being blocked by my antivirus. However, I found a workaround and managed to install it, so I’m happy about that. The second blocker I had was in the Python 102 class. We went deeper into Gradio, and I had some difficulty grasping how to use blocks. But after some practice and review, I finally got the concept. I think I just need a bit more practice to refine it.
+
+reflection: |
+  The lessons I took from today were from the AI quest we did. It was really nice to interact with how AI is used, and it gave me the impression of embodying the role of someone who works in AI, implementing it in the real world. Some of the important lessons I took from today were how to collect data for AI, how to train models, and how to release the model into the real world. For collecting data, I learned that you need a diverse set of data to reduce AI biases when training your model. And for training your model, you need to combine all that data and clean it up to remove identifiable information from the people you collected it from. I also learned that sometimes you need to go back and collect more data because once you train your model, you realize it needs more to be accurate. And when you release your model into the real world, you need to thoroughly test it first. Finally, I also learned that AI is not here to replace jobs but to help people do their jobs better and in a much more efficient way, especially in areas where resources are limited.
+---
