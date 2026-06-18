@@ -28,9 +28,9 @@ final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
   name: John Tanimola
-  [linkedin:](https://www.linkedin.com/in/johnolajidetanimola-mnse-reg/)
+  linkedin: https://www.linkedin.com/in/johnolajidetanimola-mnse-reg/
 
 faculty_mentor:
   name: Dr. Steve Efe
-  [linkedin: ](https://www.linkedin.com/in/example](https://www.linkedin.com/in/drsteveefe/)
+  linkedin: https://www.linkedin.com/in/example](https://www.linkedin.com/in/drsteveefe/
 ---
