@@ -19,9 +19,9 @@ about:
     side projects with friends.
 
   hobbies:
-    - icon: 🎨
-      title: Digital Art
-      description: I make small illustrations and pixel art in my spare time.
+    - icon: 📷
+      title: Photography
+      description: I take photos in my spare time.
     - icon: 🚲
       title: Biking
       description: Weekend trail rides are how I reset.
@@ -30,10 +30,7 @@ about:
       description: Sci-fi novels and design essays — both equally inspiring.
 
   gallery:
-    - image: /assets/images/gallery-1.svg
-      caption: A great day on the trail.
-    - image: /assets/images/gallery-2.svg
-      caption: One of my recent illustrations.
-    - image: /assets/images/gallery-3.svg
-      caption: Hanging out with friends after class.
+    - image: /assets/images/img1.png
+    - image: /assets/images/img2.png
+    - image: /assets/images/profile.jpeg
 ---
