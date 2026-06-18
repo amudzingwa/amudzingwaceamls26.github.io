@@ -11,7 +11,7 @@ problem: |
   
   The challenge is that manual inspections are not only time-consuming but can also place inspectors in dangerous environments. As disasters become more frequent and severe, the demand for rapid damage assessment continues to grow. Current methods often struggle to provide the speed and scale needed to support effective response efforts immediately after an event.
   
-This research addresses this gap by using aerial imagery and artificial intelligence to automatically identify and classify building damage. The classification is divided into four different categories: damaged, minor damage, major damage or undamaged. By providing an early assessment of whether structures are likely safe or unsafe, the system can help decision-makers prioritize inspections, direct resources more efficiently, and accelerate recovery efforts while reducing risk to personnel in the field.
+  This research addresses this gap by using aerial imagery and artificial intelligence to automatically identify and classify building damage. The classification is divided into four different categories: damaged, minor damage, major damage or undamaged. By providing an early assessment of whether structures are likely safe or unsafe, the system can help decision-makers prioritize inspections, direct resources more efficiently, and accelerate recovery efforts while reducing risk to personnel in the field.
 
 
 approach: |
